@@ -1,6 +1,6 @@
 {
   "name": "language-opendss",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A grammar for OpenDSS input files",
   "keywords": [],
   "repository": "https://github.com/tshort/language-opendss",
